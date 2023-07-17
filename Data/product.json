@@ -1,0 +1,150 @@
+[
+	{
+		"_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": true
+		},
+		"category_id": "2",
+		"rating": { "number": 4.5, "badge": "Excellent" },
+		"total_student": 488,
+		"title": "C Programming for Beginner",
+		"author": {
+			"name": "Debos Das",
+			"course_time": "2022-08-24 17:27:34",
+			"img": "https://contentstatic.techgig.com/photo/78576603/4-most-common-c-programming-mistakes-that-you-must-avoid.jpg?72434"
+		},
+		"course_fee": "10000 ৳",
+		"details": "C is an imperative procedural language, supporting structured programming, lexical variable scope and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support."
+	},
+	{
+		"_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": true
+		},
+		"category_id": "3",
+		"rating": { "number": 4.5, "badge": "Excellent" },
+		"total_student": 588,
+		"title": "Core Java Programming",
+		"author": {
+			"name": "Rupash Das",
+			"course_time": "2022-08-24 17:27:34",
+			"img": "https://cdn.codegym.cc/images/article/ddb7fe1b-d163-4e5a-8ca8-415c56dbca59/800.jpeg"
+		},
+		"course_fee": "12000 ৳",
+		"details": "Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself. It is a fast, secure, reliable programming language for coding everything from mobile apps and enterprise software to big data applications and server-side technologies."
+	},
+
+	{
+		"_id": "f69a695f037cd9484cecaea37ca71011",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": true
+		},
+		"category_id": "1",
+		"rating": { "number": 4.8, "badge": "Excellent" },
+		"total_student": 460,
+		"title": "Basic web design & wordpress customization",
+		"author": {
+			"name": "Jennifer Wood",
+			"course_time": "2022-08-30 16:38:45",
+			"img": "https://www.techbooky.com/wp-content/uploads/2022/02/web-design-2.jpeg"
+		},
+		"course_fee": "15000 ৳",
+		"details": "The key difference between custom WordPress website development and the use of the ready-made template is the use of the Advanced Custom Fields plugin. This plugin allows you to add features of any complexity to your WordPress site.Meanwhile, WordPress theme website development is about customization of the existing template accordingly to your brand’s style."
+	},
+	{
+		"_id": "f69a695f037cd9484cecaea37ca71012",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": true
+		},
+		"category_id": "1",
+		"rating": { "number": 4.3, "badge": "Excellent" },
+		"total_student": 400,
+		"title": "Advance Java Script & DOM",
+		"author": {
+			"name": "Mahabub Hossain",
+			"course_time": "2022-08-30 16:38:45",
+			"img": "https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg"
+		},
+		"course_fee": "17000 ৳",
+		"details": "There have been a number of articles published over the years that discuss best practices techniques for JavaScript. I thought I would go a little bit beyond the scope of those articles and outline a number of advanced JavaScript concepts and techniques that I have personally used or read about that could be invaluable in certain circumstances. This article doesn’t necessarily cover every detail of the methods I’m describing, but provides an overview, along with advanced JavaScript examples with code."
+	},
+
+	{
+		"_id": "11468ed61aee84de492a8b04158a22f9",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": false
+		},
+		"category_id": "1",
+		"rating": { "number": 4.5, "badge": "Excellent" },
+		"total_student": 980,
+		"title": "React JS Framework for begenning to advance",
+		"author": {
+			"name": "Shanga Mehta",
+			"course_time": "2022-08-24 23:15:00",
+			"img": "https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png"
+		},
+		"course_fee": "18000 ৳",
+		"details": "Every front-end developer and web developer knows how frustrating and painful it is to write the same code at multiple places. If they need to add a button on multiple pages they are forced to do a lot of code. Developers using other frameworks face the challenges to rework most codes even when crafting components that changed frequently. Developers wanted a framework or library which allow them to break down complex components and reuse the codes to complete their projects faster. Here React comes in and solved this problem."
+	},
+	{
+		"_id": "11468ed61aee84de492a8b04158a22f0",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": false
+		},
+		"category_id": "4",
+		"rating": { "number": 4.5, "badge": "Excellent" },
+		"total_student": 980,
+		"title": "Python programming for beginner",
+		"author": {
+			"name": "Mark Jackson",
+			"course_time": "2022-08-24 23:15:00",
+			"img": "https://zemez.io/wp-content/uploads/2022/10/python-1024x576.png"
+		},
+		"course_fee": "17000 ৳",
+		"details": "Understanding the fundamentals of Python, including data types, control flow, functions, modules, and libraries.Object-oriented programming in Python: Implementing OOP concepts in Python, including classes, objects, inheritance, polymorphism, and encapsulation.File input/output and handling exceptions: Working with files in Python, including reading and writing files, and handling exceptions.Python data structures: Understanding data structures such as lists, tuples, dictionaries, and sets, and implementing them in Python.Python libraries: Working with popular Python libraries such as NumPy, Pandas, and Matplotlib for data analysis and visualization.Web scraping: Extracting data from websites using Python libraries such as Beautiful Soup and Scrapy.GUI development: Developing graphical user interfaces (GUI) using Python libraries such as Tkinter and PyQT.Database programming: Using Python to interact with databases, including SQLite, MySQL, and PostgreSQL.Working with APIs: Interacting with web APIs using Python, including RESTful APIs, JSON and XML data formats.Artificial intelligence and machine learning: Using Python to develop artificial intelligence and machine learning models using libraries such as TensorFlow and Scikit-Learn."
+	},
+
+	{
+		"_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": true
+		},
+		"category_id": "5",
+		"rating": { "number": 4.5, "badge": "Excellent" },
+		"total_student": 350,
+		"title": "C++ programming for beginner to advance",
+		"author": {
+			"name": "Theo Minh Châu",
+			"course_time": "2022-08-30 15:00:04",
+			"img": "https://www.analyticsinsight.net/wp-content/uploads/2022/03/bh1-1024x725-1.jpg"
+		},
+		"course_fee": "17000 ৳",
+		"details": "C++ programming course covers various aspects of the C++ programming language,Introduction to C++: Understanding the basics of C++ programming, including data types, control flow, functions, and arrays.Object-oriented programming in C++: Implementing OOP concepts in C++, including classes, objects, inheritance, polymorphism, and encapsulation.Pointers and dynamic memory management: Understanding pointers and dynamic memory allocation in C++, including new and delete operators.File input/output and handling exceptions: Working with files in C++, including reading and writing files, and handling exceptions.C++ data structures: Understanding data structures such as linked lists, stacks, queues, trees, and graphs, and implementing them in C++.Standard Template Library (STL): Working with the STL, including containers such as vectors, lists, and maps, and algorithms such as sorting and searching.Multithreading and concurrency: Developing multithreaded applications in C++ using threads, mutexes, and condition variables.Graphics and game programming: Developing graphical applications and games using C++ libraries such as OpenGL and SDL.Interacting with hardware: Developing applications that interact with hardware devices such as sensors, motors, and displays using C++ libraries.Advanced topics: Advanced topics such as templates, namespaces, and the C++ preprocessor, and optimizing C++ code for performance.."
+	},
+
+	{
+		"_id": "a713ee936ff5574273f0f769f5c5b20e",
+		"others_info": {
+			"is_todays_pick": false,
+			"is_trending": true
+		},
+		"category_id": "6",
+		"rating": { "number": 4.5, "badge": "Excellent" },
+		"total_student": 111,
+		"title": "Mordern Robotics: Machine planning and control",
+		"author": {
+			"name": "Henry Poll",
+			"course_time": null,
+			"img": "https://smecbangalore.com/wp-content/uploads/2019/10/robotics-training-in-bangalore-1.jpg"
+		},
+		"course_fee": "18000 ৳",
+		"details": "A robotics course covers various aspects of robotics,introduction to robotics: Understanding the basics of robotics, including robot types, robot components, and robot control.Robot kinematics: Understanding robot motion, including forward and inverse kinematics, and trajectory planning.Robot sensors and perception: Understanding sensors used in robotics, including cameras, LIDAR, and IMUs, and using perception algorithms to extract information from sensor data.Robot control: Implementing robot control algorithms, including PID control, feedback control, and model-based control.Robot programming: Programming robots using high-level programming languages such as Python and C++, and using robot programming frameworks such as ROS (Robot Operating System).Robot manipulation and grasping: Understanding robot manipulation and grasping, including robot arm control, object recognition, and grasping algorithms.Robot navigation and mapping: Understanding robot navigation and mapping, including SLAM (Simultaneous Localization and Mapping), path planning, and obstacle avoidance.Robot learning and artificial intelligence: Understanding robot learning and AI, including reinforcement learning, imitation learning, and deep learning for robotics.Robot applications: Exploring applications of robotics, including autonomous vehicles, industrial automation, healthcare, and search and rescue."
+	}
+]
